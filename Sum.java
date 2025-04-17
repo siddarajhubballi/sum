@@ -1,8 +1,8 @@
 public class Sum {
 
     // Function to calculate the sum of two numbers
-    public static int sum(int a, int b) {
-        return a + b;
+    public static int sum(int num1, int num2) {
+        return num1 + num2;
     }
 
     // Main function
