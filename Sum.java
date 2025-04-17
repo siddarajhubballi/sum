@@ -10,7 +10,7 @@ public class Sum {
         int num1 = 5;
         int num2 = 10;
 
-        int result = sum(num1, num2,50);
+        int result = sum(num1, num2,30);
         System.out.println("The sum : " + result);
     }
 }
